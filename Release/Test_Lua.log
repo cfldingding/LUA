@@ -1,0 +1,39 @@
+﻿  Test_Lua.cpp
+  正在生成代码
+  118 of 871 functions (13.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    246 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+Lua5.35.lib(lapi.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lapi.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lauxlib.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lauxlib.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(linit.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(linit.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lvm.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lvm.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lgc.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lgc.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(ltable.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(ltable.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(ldo.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(ldo.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lobject.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lobject.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(ldebug.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(ldebug.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lfunc.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lfunc.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lzio.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lzio.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lstring.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lstring.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lstate.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lstate.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(ldump.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(ldump.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(ltm.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(ltm.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(ltablib.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(ltablib.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lbaselib.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lbaselib.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lutf8lib.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lutf8lib.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(loadlib.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(loadlib.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(loslib.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(loslib.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lstrlib.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lstrlib.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lmathlib.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lmathlib.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(liolib.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(liolib.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(ldblib.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(ldblib.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lcorolib.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lcorolib.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lmem.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lmem.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lundump.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lundump.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lparser.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lparser.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lctype.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lctype.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lopcodes.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lopcodes.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(llex.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(llex.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Lua5.35.lib(lcode.obj) : warning LNK4099: 未找到 PDB“Lua5.35.pdb”(使用“Lua5.35.lib(lcode.obj)”或在“E:\project_vs2019\LUA\Test_Lua\Release\Lua5.35.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Test_Lua.vcxproj -> E:\project_vs2019\LUA\Test_Lua\Release\Test_Lua.exe
